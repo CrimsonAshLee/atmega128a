@@ -1,0 +1,37 @@
+# 빌드 결과물
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.eep
+
+# 라이브러리/임시/백업 파일
+*.d
+*.dep
+*.bak
+*.swp
+*~
+
+# Atmel Studio/AVR Studio 관련
+*.aps
+*.dsk
+*.db
+*.suo
+*.user
+*.ncb
+*.plg
+*.aps
+*.log
+
+# Output/Debug/Release 폴더
+/Debug/
+/Release/
+/output/
+/build/
+
+# 기타
+.vscode/
+.idea/
+*.iml
